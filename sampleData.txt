@@ -1,0 +1,10 @@
+{
+  "name": "Test 1",
+  "address": "Test Address",
+  "city": "City",
+  "sate": "State",
+  "country": "USA",
+  "dob": "2000-07-11T13:24:01.535Z",
+  "gender": "M",
+  "saleDate": "2020-07-11T13:24:01.535Z"
+}
